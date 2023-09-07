@@ -1,2 +1,11 @@
 ﻿  PLA.cpp
-  Project1.vcxproj -> Z:\SVN\Fall23\MAT 345\HW1\Project1\Debug\Project1.exe
+C:\Users\Jacob\Desktop\MAT345\HW1\Project1\PLA.cpp(8,10): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Jacob\Desktop\MAT345\HW1\Project1\PLA.cpp(14,13): error C2064: term does not evaluate to a function taking 1 arguments
+C:\Users\Jacob\Desktop\MAT345\HW1\Project1\PLA.cpp(42,1): error C2511: 'void pla::updateWeight(glm::vec3)': overloaded member function not found in 'pla'
+C:\Users\Jacob\Desktop\MAT345\HW1\Project1\PLA.h(39): message : see declaration of 'pla'
+C:\Users\Jacob\Desktop\MAT345\HW1\Project1\PLA.cpp(46,1): error C2059: syntax error: '}'
+C:\Users\Jacob\Desktop\MAT345\HW1\Project1\PLA.cpp(46,1): error C2143: syntax error: missing ';' before '}'
